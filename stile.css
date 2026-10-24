@@ -1,0 +1,46 @@
+
+.cafe-2 {
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+.cafe-1{ 
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.image_container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.cafe-3{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: url("./estefondo.jpg");
+}
+.p{
+    font-size: larger;
+}
+p { color: beige; }
+h1{color:beige}
+
+.perro{
+    width:100%;
+}
+
+a {
+    color: beige;
+}
+
+a::visited {
+    color: rgb(253, 0, 0);
+}
